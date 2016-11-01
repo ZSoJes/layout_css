@@ -1,0 +1,38 @@
+.container {
+  margin: 0 auto;
+  width: 750px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+.main-title {
+  text-align: center;
+}
+
+
+
+
+#turtles .izq{
+ padding-top: 80px;
+ /*border: 1px solid black;*/
+}
+
+.izq {
+float: left;
+width: 45%;
+display: block;
+}
+
+.der {
+float: right;
+width: 49%;
+display: block;
+padding-top: 60px;
+}
