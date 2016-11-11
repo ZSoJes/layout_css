@@ -15,14 +15,17 @@ header {
 .main-title {
   text-align: center;
 }
-
+.pricing{
+  width: 100%;
+}
 .pricing_features {
     display: inline-block;
     margin: 0;
+    width: 245px;
 }
 
 h5 {
-    padding: 0 30px 0 70px;
+    text-align: center;
 }
 
 ul li {
